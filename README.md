@@ -1,4 +1,4 @@
-# IMDb Movie Data Analysis
+# Super Market Data Analysis
 
 Introduction :
 -
