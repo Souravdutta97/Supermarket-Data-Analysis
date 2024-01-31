@@ -54,7 +54,7 @@ This project includes steps as follows :
 </p>
 7.	The 'Set' clothing category received the highest number of orders, comprising 40% of the total.
 <p align="center">
-  <img width="600" height="300" src="pr.png">
+  <img width="600" height="300" src="ssss/Screenshot 2024-01-31 134615.png">
 </p>
 Conclusion:
 -
