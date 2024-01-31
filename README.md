@@ -38,7 +38,7 @@ This project includes steps as follows :
 -	92.25% of orders are marked as "Delivered".
 -	The remaining percentage consists of orders that are "Cancelled", "Refunded," or "Returned".
 <p align="center">
-  <img width="600" height="300" src="pr.png">
+  <img width="600" height="300" src="ssss/Screenshot 2024-01-31 134408.png">
 </p>
 4.	Top 10 states :
 <p align="center">
