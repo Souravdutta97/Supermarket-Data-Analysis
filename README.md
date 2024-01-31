@@ -32,7 +32,7 @@ This project includes steps as follows :
 
 2.	Women are more likely to purchase (69%) than men.
  <p align="center">
-  <img width="600" height="300" src="pr.png">
+  <img width="600" height="300" src="ssss/Screenshot 2024-01-31 134131.png">
 </p>
 3.	In my dataset, the different order statuses are primarily categorized as:
 -	92.25% of orders are marked as "Delivered".
