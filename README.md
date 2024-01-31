@@ -27,7 +27,7 @@ This project includes steps as follows :
 -
 1.	In my report, I found that March has the highest sales and order numbers, while November has the lowest. Additionally, there is a noticeable decline in sales and order quantities after March.
  <p align="center">
-  <img width="600" height="300" src="pr.png">
+  <img width="600" height="300" src="ssss/Screenshot 2024-01-31 134308.png">
 </p>
 
 2.	Women are more likely to purchase (69%) than men.
