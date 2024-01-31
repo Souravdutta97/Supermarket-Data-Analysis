@@ -42,7 +42,7 @@ This project includes steps as follows :
 </p>
 4.	Top 10 states :
 <p align="center">
-  <img width="600" height="300" src="pr.png">
+  <img width="600" height="300" src="ssss/Screenshot 2024-01-31 134440.png">
 </p> 
 5.	The adult age group (30-49 yrs) made the most contributions.
  <p align="center">
